@@ -1,2 +1,2 @@
-# oscarworgenchaffe.github.io
-practica final curso linux
+# web
+Repositorio de código con ejemplo de página web sencilla pero eficaz.
